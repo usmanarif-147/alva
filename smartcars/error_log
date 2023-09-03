@@ -1,0 +1,180 @@
+[06-Jun-2023 18:03:31 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 81
+[06-Jun-2023 18:03:31 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[06-Jun-2023 18:03:31 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[06-Jun-2023 18:03:31 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[06-Jun-2023 18:03:31 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[06-Jun-2023 18:03:31 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[06-Jun-2023 18:03:31 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[06-Jun-2023 18:03:35 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[06-Jun-2023 18:03:35 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[06-Jun-2023 18:03:35 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[06-Jun-2023 18:03:35 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[06-Jun-2023 18:03:35 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[06-Jun-2023 18:03:35 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[06-Jun-2023 18:03:38 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[06-Jun-2023 18:03:38 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[06-Jun-2023 18:03:38 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[06-Jun-2023 18:03:38 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[06-Jun-2023 18:03:38 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[06-Jun-2023 18:03:38 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[06-Jun-2023 18:03:38 UTC] PHP Warning:  Undefined variable $pirep in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/details.php on line 15
+[06-Jun-2023 18:04:43 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 18
+[06-Jun-2023 18:04:43 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 31
+[06-Jun-2023 18:04:43 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 36
+[06-Jun-2023 18:04:43 UTC] PHP Warning:  Undefined array key "callsign" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 46
+[06-Jun-2023 18:04:43 UTC] PHP Warning:  Undefined array key "minimumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 56
+[06-Jun-2023 18:04:43 UTC] PHP Warning:  Undefined array key "maximumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 66
+[06-Jun-2023 18:04:43 UTC] PHP Warning:  Undefined array key "minimumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 76
+[06-Jun-2023 18:04:43 UTC] PHP Warning:  Undefined array key "maximumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 86
+[11-Jun-2023 23:28:03 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 18
+[11-Jun-2023 23:28:03 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 31
+[11-Jun-2023 23:28:03 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 36
+[11-Jun-2023 23:28:03 UTC] PHP Warning:  Undefined array key "callsign" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 46
+[11-Jun-2023 23:28:03 UTC] PHP Warning:  Undefined array key "minimumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 56
+[11-Jun-2023 23:28:03 UTC] PHP Warning:  Undefined array key "maximumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 66
+[11-Jun-2023 23:28:03 UTC] PHP Warning:  Undefined array key "minimumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 76
+[11-Jun-2023 23:28:03 UTC] PHP Warning:  Undefined array key "maximumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 86
+[11-Jun-2023 23:28:07 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 18
+[11-Jun-2023 23:28:07 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 36
+[11-Jun-2023 23:28:07 UTC] PHP Warning:  Undefined array key "callsign" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 46
+[11-Jun-2023 23:28:07 UTC] PHP Warning:  Undefined array key "minimumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 56
+[11-Jun-2023 23:28:07 UTC] PHP Warning:  Undefined array key "maximumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 66
+[11-Jun-2023 23:28:07 UTC] PHP Warning:  Undefined array key "minimumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 76
+[11-Jun-2023 23:28:07 UTC] PHP Warning:  Undefined array key "maximumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 86
+[12-Jun-2023 00:10:28 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 81
+[12-Jun-2023 00:10:28 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[12-Jun-2023 00:10:28 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[12-Jun-2023 00:10:28 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[12-Jun-2023 00:10:28 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[12-Jun-2023 00:10:28 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[12-Jun-2023 00:10:28 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[12-Jun-2023 00:10:33 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[12-Jun-2023 00:10:33 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[12-Jun-2023 00:10:33 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[12-Jun-2023 00:10:33 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[12-Jun-2023 00:10:33 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[12-Jun-2023 00:10:33 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[12-Jun-2023 00:10:33 UTC] PHP Warning:  Undefined variable $pirep in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/details.php on line 15
+[12-Jun-2023 00:10:39 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[12-Jun-2023 00:10:39 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[12-Jun-2023 00:10:39 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[12-Jun-2023 00:10:39 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[12-Jun-2023 00:10:39 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[12-Jun-2023 00:10:39 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[12-Jun-2023 00:39:51 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[12-Jun-2023 00:39:51 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[12-Jun-2023 00:39:51 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[12-Jun-2023 00:39:51 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[12-Jun-2023 00:39:51 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[12-Jun-2023 00:39:51 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[12-Jun-2023 00:39:52 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[12-Jun-2023 00:39:52 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[12-Jun-2023 00:39:52 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[12-Jun-2023 00:39:52 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[12-Jun-2023 00:39:52 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[12-Jun-2023 00:39:52 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[12-Jun-2023 00:39:52 UTC] PHP Warning:  Undefined variable $pirep in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/details.php on line 15
+[14-Jun-2023 17:20:01 UTC] PHP Warning:  require_once(0.3.4/handlers/smartcarsnative/environment.php): Failed to open stream: No such file or directory in /home/aalvqjco/crew.aalva.site/smartcars/api.php on line 171
+[14-Jun-2023 17:20:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '0.3.4/handlers/smartcarsnative/environment.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aalvqjco/crew.aalva.site/smartcars/api.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/aalvqjco/crew.aalva.site/smartcars/api.php on line 171
+[14-Jun-2023 17:20:25 UTC] PHP Warning:  require_once(0.3.4/handlers/smartcarsnative/environment.php): Failed to open stream: No such file or directory in /home/aalvqjco/crew.aalva.site/smartcars/api.php on line 171
+[14-Jun-2023 17:20:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '0.3.4/handlers/smartcarsnative/environment.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aalvqjco/crew.aalva.site/smartcars/api.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/aalvqjco/crew.aalva.site/smartcars/api.php on line 171
+[14-Jun-2023 17:21:18 UTC] PHP Warning:  require_once(0.3.4/handlers/smartcarsnative/environment.php): Failed to open stream: No such file or directory in /home/aalvqjco/crew.aalva.site/smartcars/api.php on line 171
+[14-Jun-2023 17:21:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '0.3.4/handlers/smartcarsnative/environment.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/aalvqjco/crew.aalva.site/smartcars/api.php:171
+Stack trace:
+#0 {main}
+  thrown in /home/aalvqjco/crew.aalva.site/smartcars/api.php on line 171
+[14-Jun-2023 17:21:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 81
+[14-Jun-2023 17:21:53 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[14-Jun-2023 17:21:53 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[14-Jun-2023 17:21:53 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[14-Jun-2023 17:21:53 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[14-Jun-2023 17:21:53 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[14-Jun-2023 17:21:53 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[14-Jun-2023 17:21:58 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[14-Jun-2023 17:21:58 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[14-Jun-2023 17:21:58 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[14-Jun-2023 17:21:58 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[14-Jun-2023 17:21:58 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[14-Jun-2023 17:21:58 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[14-Jun-2023 17:22:00 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[14-Jun-2023 17:22:00 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[14-Jun-2023 17:22:00 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[14-Jun-2023 17:22:00 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[14-Jun-2023 17:22:00 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[14-Jun-2023 17:22:00 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[14-Jun-2023 17:22:00 UTC] PHP Warning:  Undefined variable $pirep in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/details.php on line 15
+[14-Jun-2023 17:22:02 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[14-Jun-2023 17:22:02 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[14-Jun-2023 17:22:02 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[14-Jun-2023 17:22:02 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[14-Jun-2023 17:22:02 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[14-Jun-2023 17:22:02 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[14-Jun-2023 17:22:21 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[14-Jun-2023 17:22:21 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[14-Jun-2023 17:22:21 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[14-Jun-2023 17:22:21 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[14-Jun-2023 17:22:21 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[14-Jun-2023 17:22:21 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[14-Jun-2023 17:22:26 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 18
+[14-Jun-2023 17:22:26 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 31
+[14-Jun-2023 17:22:26 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 36
+[14-Jun-2023 17:22:26 UTC] PHP Warning:  Undefined array key "callsign" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 46
+[14-Jun-2023 17:22:26 UTC] PHP Warning:  Undefined array key "minimumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 56
+[14-Jun-2023 17:22:26 UTC] PHP Warning:  Undefined array key "maximumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 66
+[14-Jun-2023 17:22:26 UTC] PHP Warning:  Undefined array key "minimumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 76
+[14-Jun-2023 17:22:26 UTC] PHP Warning:  Undefined array key "maximumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 86
+[14-Jun-2023 17:22:30 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 18
+[14-Jun-2023 17:22:30 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 36
+[14-Jun-2023 17:22:30 UTC] PHP Warning:  Undefined array key "callsign" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 46
+[14-Jun-2023 17:22:30 UTC] PHP Warning:  Undefined array key "minimumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 56
+[14-Jun-2023 17:22:30 UTC] PHP Warning:  Undefined array key "maximumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 66
+[14-Jun-2023 17:22:30 UTC] PHP Warning:  Undefined array key "minimumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 76
+[14-Jun-2023 17:22:30 UTC] PHP Warning:  Undefined array key "maximumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 86
+[14-Jun-2023 17:22:36 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 18
+[14-Jun-2023 17:22:36 UTC] PHP Warning:  Undefined array key "callsign" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 46
+[14-Jun-2023 17:22:36 UTC] PHP Warning:  Undefined array key "minimumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 56
+[14-Jun-2023 17:22:36 UTC] PHP Warning:  Undefined array key "maximumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 66
+[14-Jun-2023 17:22:36 UTC] PHP Warning:  Undefined array key "minimumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 76
+[14-Jun-2023 17:22:36 UTC] PHP Warning:  Undefined array key "maximumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 86
+[19-Jun-2023 19:16:12 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 81
+[19-Jun-2023 19:16:12 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 18
+[19-Jun-2023 19:16:12 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 24
+[19-Jun-2023 19:16:12 UTC] PHP Warning:  Undefined array key "startDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 30
+[19-Jun-2023 19:16:12 UTC] PHP Warning:  Undefined array key "endDate" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 36
+[19-Jun-2023 19:16:12 UTC] PHP Warning:  Undefined array key "status" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 42
+[19-Jun-2023 19:16:12 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/pireps/search.php on line 58
+[19-Jun-2023 19:16:17 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 18
+[19-Jun-2023 19:16:17 UTC] PHP Warning:  Undefined array key "departureAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 31
+[19-Jun-2023 19:16:17 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 36
+[19-Jun-2023 19:16:17 UTC] PHP Warning:  Undefined array key "callsign" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 46
+[19-Jun-2023 19:16:17 UTC] PHP Warning:  Undefined array key "minimumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 56
+[19-Jun-2023 19:16:17 UTC] PHP Warning:  Undefined array key "maximumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 66
+[19-Jun-2023 19:16:17 UTC] PHP Warning:  Undefined array key "minimumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 76
+[19-Jun-2023 19:16:17 UTC] PHP Warning:  Undefined array key "maximumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 86
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 18
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 36
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "callsign" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 46
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "minimumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 56
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "maximumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 66
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "minimumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 76
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "maximumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 86
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 18
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 36
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "callsign" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 46
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "minimumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 56
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "maximumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 66
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "minimumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 76
+[19-Jun-2023 19:16:20 UTC] PHP Warning:  Undefined array key "maximumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 86
+[19-Jun-2023 19:16:22 UTC] PHP Warning:  Undefined array key "aircraft" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 18
+[19-Jun-2023 19:16:22 UTC] PHP Warning:  Undefined array key "arrivalAirport" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 36
+[19-Jun-2023 19:16:22 UTC] PHP Warning:  Undefined array key "callsign" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 46
+[19-Jun-2023 19:16:22 UTC] PHP Warning:  Undefined array key "minimumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 56
+[19-Jun-2023 19:16:22 UTC] PHP Warning:  Undefined array key "maximumFlightTime" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 66
+[19-Jun-2023 19:16:22 UTC] PHP Warning:  Undefined array key "minimumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 76
+[19-Jun-2023 19:16:22 UTC] PHP Warning:  Undefined array key "maximumDistance" in /home/aalvqjco/crew.aalva.site/smartcars/0.3.4/handlers/phpvms7/flights/search.php on line 86
